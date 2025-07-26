@@ -6,7 +6,7 @@ import { PiAppleLogoFill } from "react-icons/pi";
 export default function Home() {
   return (
     <>
-      <div className="py-10 w-full h-full">
+      <div className="py-10 w-full h-full bg-white">
         <div className="flex flex-col gap-2 justify-center items-center">
           <div className="flex flex-col gap-2">
             <h1 className="text-sm text-center tracking-[0.1rem]">
