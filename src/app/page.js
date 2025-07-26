@@ -38,23 +38,23 @@ export default function Home() {
             PageMaker including versions of Lorem Ipsum.{" "}
           </p>
         </div>
-        <div className="flex flex-row gap-15 px-35 justify-center items-center max-md:flex max-md:flex-col max-md:gap-4 max-md:py-10">
-          <div className="w-70 h-55 flex flex-col gap-5 rounded-2xl outline-1 outline-gray-300 p-8">
-            <IoCodeSlashSharp className="size-10"/>
-            <h1>Language</h1>
-            <p>Html,css,JavaScript,React Js,next Js
+        <div className="flex flex-row gap-15 px-35 justify-center items-center max-md:flex max-md:flex-col max-md:gap-4 max-md:py-10 bg-white">
+          <div className="w-70 h-55 flex flex-col gap-5 rounded-2xl outline-1 outline-gray-500 p-8">
+            <IoCodeSlashSharp className="size-10 text-black"/>
+            <h1 className="text-black">Language</h1>
+            <p className="text-black">Html,css,JavaScript,React Js,next Js
             </p>
           </div>
-           <div className="w-70 h-55 flex flex-col gap-5 rounded-2xl outline-1 outline-gray-300 p-8">
-            <HiAcademicCap  className="size-10"/>
-            <h1>Language</h1>
-            <p>Html,css,JavaScript,React Js,next Js
+           <div className="w-70 h-55 flex flex-col gap-5 rounded-2xl outline-1 outline-gray-500 p-8">
+            <HiAcademicCap  className="size-10 text-black"/>
+            <h1 className="text-black">Language</h1>
+            <p className="text-black">Html,css,JavaScript,React Js,next Js
             </p>
           </div>
-           <div className="w-70 h-55 flex flex-col gap-5 rounded-2xl outline-1 outline-gray-300 p-8">
-            <PiAppleLogoFill className="size-10"/>
-            <h1>Language</h1>
-            <p>Html,css,JavaScript,React Js,next Js
+           <div className="w-70 h-55 flex flex-col gap-5 rounded-2xl outline-1 outline-gray-500 p-8">
+            <PiAppleLogoFill className="size-10 text-black"/>
+            <h1 className="text-black">Language</h1>
+            <p className="text-black">Html,css,JavaScript,React Js,next Js
             </p>
           </div>
            
